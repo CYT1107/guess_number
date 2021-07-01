@@ -1,7 +1,6 @@
 #產生隨機整數1~100
 import random
 r = random.randint(1 , 100)
-print(r)
 #重複猜數字
 while True:
     i = input('請輸入數字（1-100）：')
